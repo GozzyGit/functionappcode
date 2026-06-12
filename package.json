@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@azure/functions": "^4.16.0",
-    "@azure/identity": "^4.13.1",
+    "@azure/identity": "^4.13.1", 
     "axios": "^1.17.0"
   }
 }
